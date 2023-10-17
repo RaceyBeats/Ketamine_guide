@@ -1,0 +1,22 @@
+# Introduction
+
+Acute pain is a common condition that requires effective and timely management to alleviate suffering and promote patient comfort, but also to prevent to development of chronic and persistent pain [@Brinck_2018].
+
+
+Some patients are thought to be at greater risk of developing persistent post-surgical pain for example, amputations, multiple fractures and polytrauma, which can be due to uncontrolled pre and post-operative pain and nerve damage [@Bell_2005]. The stress response, coupled with nerve damage can lead to wind-up and make controlling pain more difficult [@Mathew_2014].
+
+While opioids have traditionally been the mainstay of acute pain management, concerns regarding their adverse effects, escalating opioid requirements and the potential for dependence and misuse, has led to a search for alternative analgesic strategies [@Eipe_2018]. 
+
+Ketamine is an anaesthetic agent, but in low doses can be effective as an analgesic **without** inducing anaesthesia. 
+
+<div class="figure">
+<img src="ket_molecule.png" alt="Ketamine (a phencyclidine derivative) is a N-methyl-D-aspartate receptor antagonists and dissociative analgesic and anesthetic." width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-1)Ketamine (a phencyclidine derivative) is a N-methyl-D-aspartate receptor antagonists and dissociative analgesic and anesthetic.</p>
+</div>
+
+Ketamine works by blocking the _N-methyl D-asparate_ (NDMA) receptor, the receptor that is responsible of **amplifying pain signals**, the development of central sensitisation with opioid tolerance. This analgesic action occurs in the dorsal horn of the spinal cord, by reducing the action of glutamate – the major excitatory neurotransmitter.[@magPain]
+
+<div class="figure">
+<img src="NMDA.png" alt="Diagram of the NMDA Receptor and Its Sites for Ligand Attachment: The NMDA receptor is made up of four components, specifically two NR1 and two NR2 subunits. In its external area, there are binding sites designed for the co-agonists glutamate and glycine, which are essential for effectively opening the ion channel. This channel contains binding locations for blocking the pore; one is designated for Mg2+ ions, while the other accommodates substances like ketamine, MK-801, memantine, and similar compounds." width="70%" />
+<p class="caption">(\#fig:unnamed-chunk-2)Diagram of the NMDA Receptor and Its Sites for Ligand Attachment: The NMDA receptor is made up of four components, specifically two NR1 and two NR2 subunits. In its external area, there are binding sites designed for the co-agonists glutamate and glycine, which are essential for effectively opening the ion channel. This channel contains binding locations for blocking the pore; one is designated for Mg2+ ions, while the other accommodates substances like ketamine, MK-801, memantine, and similar compounds.</p>
+</div>

@@ -1,0 +1,17 @@
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:nice-fig
+summary
+introduction
+indications
+contraindications
+ketamine-infusions
+starting-dosages
+oral-ketamine
+monitoring
+side-effects
+sedation
+respiratory-depression
+dysphoria-hallucinations-vivid-dreams
+stopping-low-dose-ketamine
+references

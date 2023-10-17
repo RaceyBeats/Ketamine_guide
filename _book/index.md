@@ -1,0 +1,20 @@
+--- 
+title: "Acute Pain Ketamine Guideline"
+author: "Lydia"
+date: "2023-10-17"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::bs4_book,
+  set in the _output.yml file.
+biblio-style: apalike
+csl: british-journal-of-anaesthesia.csl
+---
+
+# Summary
+This document provides guidance on the dosing and administration of **low-dose ketamine** for **adults** with **uncontrolled** and **complex acute pain**.[@Brinck_2018] Low-dose ketamine should only be initiated, prescribed, titrated and discontinued by an acute pain consultant, anaesthetist and specialist pain nurses. This guideline does not cover the administration of ketamine as an anaesthetic agent or for the relief of procedural pain for areas such as the emergency department, and for chronic pain or palliative care.
+

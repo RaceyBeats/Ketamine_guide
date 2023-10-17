@@ -1,0 +1,7 @@
+# Monitoring
+
+For patient’s receiving oral ketamine, there isn’t a requirement for additional monitoring of vital signs. However, all patient’s receiving low dose IV ketamine infusions will require monitoring as per the table below, which will be documented onto the prescription chart (see appendix 1)
+
+```{r nice-fig, echo = FALSE, fig.cap="Suggested frequency that a patient's observations should be recorded when starting or changing ketamine.", out.width='70%'}
+knitr::include_graphics("/Users/raceybeats/Desktop/Ketamine_guide/pdf_monitor.png")
+```
